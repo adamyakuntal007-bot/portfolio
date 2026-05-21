@@ -1,0 +1,6 @@
+{
+  "name": "SD Portfolio",
+  "description": "An elegant, highly responsive visual portfolio for SD, a leading Digital Visual Designer, with rich interactive layouts and contact features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
